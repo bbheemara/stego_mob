@@ -79,7 +79,7 @@ class _ProfilePageState extends State<ProfilePage> {
                             'Stego Count: ${snapshot.data}',
                             style: const TextStyle(fontSize: 16),
                           );
-                        }
+                        }      
                       },
                     ),
                   ],
