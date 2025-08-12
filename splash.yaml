@@ -1,0 +1,16 @@
+flutter_native_splash:
+   android: true
+   ios: true
+   web: true
+
+   color: '#d4e4ed'
+
+   image: 'assets/stego_logo.png'
+
+   android_12:
+      color: '#d4e4ed'
+      image: 'assets/stego_logo.png'
+
+
+
+      
