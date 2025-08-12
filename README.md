@@ -54,6 +54,8 @@ Stego Mob is an Android steganography app that enables users to securely embed a
 - Dark mode/light mode
 
 
+
+
 ![stego_0](https://github.com/user-attachments/assets/7e9c1f56-b2bc-4894-b1c4-9ac76a658755)
 
 
